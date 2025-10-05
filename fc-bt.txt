@@ -1,0 +1,6 @@
+2-f24
+Elapsed time: 0.1526656150817871 seconds
+Constraint checks: 27069
+Number of assignments: 254
+Result found
+

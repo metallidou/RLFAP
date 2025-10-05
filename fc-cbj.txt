@@ -1,0 +1,72 @@
+2-f24
+Result found
+Elapsed time: 0.2075662612915039 seconds
+Constraint checks: 26942
+Number of assignments: 250
+
+2-f25
+No result found
+Elapsed time: 9.789601802825928 seconds
+Constraint checks: 8834680
+Number of assignments: 43711
+
+3-f10
+Result found
+Elapsed time: 0.8953301906585693 seconds
+Constraint checks: 523604
+Number of assignments: 2697
+
+3-f11
+No result found
+Elapsed time: 21.738807439804077 seconds
+Constraint checks: 15217112
+Number of assignments: 81769
+
+6-w2
+No result found
+Elapsed time: 0.09191536903381348 seconds
+Constraint checks: 46674
+Number of assignments: 250
+
+7-w1-f4
+Result found
+Elapsed time: 0.3576517105102539 seconds
+Constraint checks: 101759
+Number of assignments: 2120
+
+7-w1-f5
+No result found
+Elapsed time: 225.82437562942505 seconds
+Constraint checks: 121637113
+Number of assignments: 2018117
+
+8-f10
+Result found
+Elapsed time: 73.56104731559753 seconds
+Constraint checks: 39670446
+Number of assignments: 238783
+
+8-f11
+No result found
+Elapsed time: 46.17838978767395 seconds
+Constraint checks: 17051241
+Number of assignments: 117001
+
+11
+Result found
+Elapsed time: 3.9896225929260254 seconds
+Constraint checks: 1226393
+Number of assignments: 5503
+
+14-f27
+Result found
+Elapsed time: 19.810754776000977 seconds
+Constraint checks: 2730031
+Number of assignments: 49696
+
+14-f28
+No result found
+Elapsed time: 117.10000324249268 seconds
+Constraint checks: 12672600
+Number of assignments: 185211
+
