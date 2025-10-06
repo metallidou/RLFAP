@@ -20,9 +20,10 @@ python rlfap.py all
 ## Instances
 The following benchmark instances are included:
 
-| Instances | | | | | | | | | | | | 
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 2-f24 | 2-f25 | 3-f10 | 3-f11 | 6-w2 | 7-w1-f4 | 7-w1-f5 | 8-f10 | 8-f11 | 11 | 14-f27 | 14-f28 |
+| Instances | | | | | |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 2-f24 | 2-f25 | 3-f10 | 3-f11 | 6-w2 | 7-w1-f4 |
+| 7-w1-f5 | 8-f10 | 8-f11 | 11 | 14-f27 | 14-f28 |
 
 Each instance represents a different RLFAP configuration with varying numbers of variables and constraints.
 
