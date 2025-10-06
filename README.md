@@ -46,8 +46,8 @@ The figure below shows the runtime performance, number of constraint checks and 
 ![Results](results.png)
 
 ### Table results explanation
-- 🟩 green cells: the program finished with a result
-- 🟥 red cells: the program finished with no result
-- ⏰ TIMEOUT: the program did not finish within 500 seconds
+- green cells: the program finished with a result
+- red cells: the program finished with no result
+- TIMEOUT: the program did not finish within 500 seconds
 
 
