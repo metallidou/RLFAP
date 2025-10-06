@@ -35,13 +35,13 @@ class Rlfap():
         self.constraint_checks = 0
 
     def get_var_file(self):
-        return self.get_instance_file("../instances/var")
+        return self.get_instance_file("instances/var")
 
     def get_dom_file(self):
-        return self.get_instance_file("../instances/dom")
+        return self.get_instance_file("instances/dom")
 
     def get_ctr_file(self):
-        return self.get_instance_file("../instances/ctr")
+        return self.get_instance_file("instances/ctr")
 
     # This method returns the instance file path of type var, dom or ctr
     def get_instance_file(self, directory):
