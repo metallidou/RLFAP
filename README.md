@@ -32,10 +32,10 @@ Each instance represents a different RLFAP configuration with varying numbers of
 
 | Algorithm | Description |
 |------------|-------------|
-| **FC-BT** | Forward Checking with Backtracking |
-| **MAC-BT** | Maintaining Arc Consistency with Backtracking |
-| **FC-CBJ** | Forward Checking with Conflict-Directed Backjumping |
-| **MIN** | Minimum Remaining Values heuristic |
+| **fc-bt** | Forward Checking with Backtracking |
+| **mac-bt** | Maintaining Arc Consistency with Backtracking |
+| **fc-cbj** | Forward Checking with Conflict-Directed Backjumping |
+| **min** | Minimum Remaining Values heuristic |
 
 ---
 
